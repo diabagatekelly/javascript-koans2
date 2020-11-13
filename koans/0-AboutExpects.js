@@ -3,7 +3,7 @@ describe('0. About Expects', () => {
   // We shall contemplate truth by testing reality, via spec expectations.
   it('should expect true', () => {
 
-    // Your journey begins here: Replace the word false with true test
+    // Your journey begins here: Replace the word false with true
     expect(true).toBeTruthy();
   });
 
